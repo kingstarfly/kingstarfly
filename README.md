@@ -6,10 +6,6 @@ Full Stack Developer | Penultimate Undergraduate
 
 I am a passionate web developer who loves creating beautiful and functional web apps. I am proficient in using Figma for designing user interfaces, and I have a strong background in frontend and backend development using TypeScript. I enjoy the process of taking a project from concept to deployment, and I am always eager to learn and improve my skills.
 
-* 🌍  I'm based in Singapore
-* ✉️  You can contact me at [xingxiang@twotreesgroup.com](mailto:xingxiang@twotreesgroup.com)
-* 🧠  I'm learning RedwoodJS
-
 ### Skills
 
 
